@@ -17,16 +17,16 @@ body {
   
   
   p {
-      height: 75%;
-      width: 75%;
-      background-color:white;}
+      height: 960px;
+      length: 960px;
+      background-color:white;
+      margin: 40px;
+      margin-bottom: 20px;
 
-  header {
-    background: gray;
-  }
+    }
   
   h1 {
-    padding: 40px;
+    padding: 50px; 
     margin: 40px;
     margin-bottom: 20px;
     font-size: 28px;
@@ -35,6 +35,10 @@ body {
     background: #2cb7a4;
   }
   
+  h2 {
+    color: white;
+    background: teal;
+    
   
   
   
